@@ -65,7 +65,6 @@ class _MyAppState extends State<_MyApp> {
                   text: "\n(" + colorsName[index] + ")",
                   style: TextStyle(fontWeight: FontWeight.w300, letterSpacing: 7),
                 ),
-                //),
               ],
             ),
           ),
